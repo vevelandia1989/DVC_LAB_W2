@@ -1,0 +1,8 @@
+[core]
+    remote = aws
+['remote "fuentelocal"']
+    url = /tmp/dvcstore
+['remote "aws-remote"']
+    url = s3://vevelandia1989
+['remote "aws"']
+    url = s3://vevelandia-dvcstore
